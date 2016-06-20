@@ -5,7 +5,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: nautilus-pdf-tools 0.9.0\n"
+"Project-Id-Version: nemo-pdf-tools 0.9.0\n"
 "Report-Msgid-Bugs-To: lorenzo.carbonell.cerezo@gmail.com\n"
 "POT-Creation-Date: 2013-12-30 08:44+0100\n"
 "PO-Revision-Date: 2012-02-26 19:31+0100\n"
